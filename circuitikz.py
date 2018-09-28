@@ -69,6 +69,7 @@ class Circuitikz(Magics):
                 pass
 
         os.system("pdfcrop %s.pdf %s-tmp.pdf" % (filename, filename))
+        os.remove("%s.pdf" % (filename))
         os.rename("%s-tmp.pdf" % filename, "%s.pdf" % filename)
 
         if options['format'] == 'png':
