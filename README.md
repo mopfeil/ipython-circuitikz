@@ -7,8 +7,11 @@ diagrams generated using LaTeX and
 from within an IPython notebook.
 
 Important Dependencies are 
+
 ImageMagick - Convert utility
+
 Ghostscript
+
 pdfcrop
 
 See the
