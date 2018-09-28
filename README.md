@@ -12,7 +12,7 @@ Ghostscript
 pdfcrop
 
 See the
-[example notebook](http://nbviewer.ipython.org/urls/raw.github.com/mopfeil/tikzmagic/Circuitikz-examples.ipynb)
+[example notebook](http://nbviewer.jupyter.org/github/mopfeil/ipython-circuitikz/blob/master/Circuitikz-examples.ipynb)
 for intallation instruction and example of how to use this magic extension.
 
 
